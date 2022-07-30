@@ -3,3 +3,10 @@ html, li {
   text-align: center;
   color: black;
 }
+a {
+ font-family: Arial, sans-serif;
+}
+a:links { color:blue;}
+a:visited { color: purple; }
+a:hover { color: green;}
+a:active { color: red; }
