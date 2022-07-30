@@ -1,5 +1,5 @@
 /* dont forget to style all links*/
-html {
+html, li {
   text-align: center;
   color: black;
 }
