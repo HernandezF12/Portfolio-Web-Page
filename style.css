@@ -1,7 +1,7 @@
 /* dont forget to style all links*/
 html, li, ol, ul {
   text-align: left;
-  color: black;
+  color: white;
 }
 a {
  font-family: Arial, sans-serif;
@@ -24,5 +24,5 @@ background: darkgray;
 }
 
 body{
-background-image: url("images/javascript.png");
+background-image: url("images/js.png");
 }
