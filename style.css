@@ -1,6 +1,6 @@
 /* dont forget to style all links*/
-html, li {
-  text-align: center;
+html, li, ol, ul {
+  text-align: left;
   color: black;
 }
 a {
@@ -10,3 +10,15 @@ a:links { color:blue;}
 a:visited { color: purple; }
 a:hover { color: green;}
 a:active { color: red; }
+
+header {
+background-color: gray;
+}
+
+h1{
+color: white;
+}
+
+footer{
+background: darkgray;
+}
