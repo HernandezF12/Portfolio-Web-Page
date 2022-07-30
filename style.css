@@ -22,3 +22,7 @@ color: white;
 footer{
 background: darkgray;
 }
+
+body{
+background-image: url("images/javascript.png");
+}
