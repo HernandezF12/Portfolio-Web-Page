@@ -1,12 +1,10 @@
 /* dont forget to style all links*/
-html, li, ol, ul {
+html, li, ol, ul, a {
   text-align: left;
   color: white;
-}
-a {
  font-family: Arial, sans-serif;
 }
-a:links { color:yellow;}
+a:links { color: yellow;}
 a:visited { color: purple; }
 a:hover { color: green;}
 a:active { color: red; }
