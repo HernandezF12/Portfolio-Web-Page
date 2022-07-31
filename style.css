@@ -11,16 +11,8 @@ a:visited { color: purple; }
 a:hover { color: green;}
 a:active { color: red; }
 
-header {
-background-color: gray;
-}
-
 h1{
 color: white;
-}
-
-footer{
-background: darkgray;
 }
 
 body{
