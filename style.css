@@ -1,7 +1,7 @@
 /* dont forget to style all links*/
 html, li, ol, ul, a {
   text-align: left;
-  color: yellow;
+  color: white;
  font-family: Arial, sans-serif;
 }
 a:links { color: yellow;}
