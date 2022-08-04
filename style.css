@@ -1,18 +1,23 @@
-/* dont forget to style all links*/
+/*the following is for the text and will change the way it's aligned, the size, the color and the font.*/
 html, li, ol, ul, a {
   text-align: left;
+  font-size: 14px;
   color: black;
  font-family: Arial, sans-serif;
 }
+
+/* the following is to style the links to go to the linked in and to my GitHub*/
 a:links { color: blue;}
 a:visited { color: purple; }
 a:hover { color: green;}
 a:active { color: red; }
 
+
 h1{
 color: black;
 }
 
+/* this is to color the background of the webpage*/
 body{
 background-color: tan;
 }
