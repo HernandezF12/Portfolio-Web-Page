@@ -19,13 +19,14 @@ body{
 background-color: tan;
 }
 
-
+/* this is for the space outside and inbetween the border*/
 main {
 margin-top: 100px;
 margin-bottom: 30px;
 padding: 30px
 }
 
+/*this make the border a certain height*/
 header{
 height: 100px;
 }
