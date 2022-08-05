@@ -1,7 +1,7 @@
 /*the following is for the text and will change the way it's aligned, the size, the color and the font.*/
 html, li, ol, ul, a {
   text-align: left;
-  font-size: 14px;
+  font-size: 18px;
   color: black;
  font-family: Arial, sans-serif;
 }
