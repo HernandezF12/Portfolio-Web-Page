@@ -13,14 +13,12 @@ a:hover { color: green;}
 a:active { color: red; }
 
 
-h1{
-color: black;
-}
 
 /* this is to color the background of the webpage*/
 body{
 background-color: tan;
 }
+
 
 main {
 margin-top: 100px;
